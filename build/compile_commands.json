@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/jacke/C++proj/FluidSimulation/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/FluidSimulation.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\FluidSimulation.dir\\src\\main.cpp.obj -c C:\\Users\\jacke\\C++proj\\FluidSimulation\\src\\main.cpp",
+  "file": "C:/Users/jacke/C++proj/FluidSimulation/src/main.cpp",
+  "output": "CMakeFiles/FluidSimulation.dir/src/main.cpp.obj"
+}
+]
